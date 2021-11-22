@@ -156,3 +156,6 @@ hr{
 .block1:hover{
     background-color: rgb(223, 230, 240);
 }
+a{
+    text-decoration: none;
+}
